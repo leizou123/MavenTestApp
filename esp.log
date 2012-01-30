@@ -1,0 +1,3 @@
+2011-12-19 18:11:55,005 INFO  [esp] Hello Logger
+2012-01-30 10:04:28,178 INFO  [esp] Hello Logger from printToLoggerTrue()
+2012-01-30 10:47:39,681 INFO  [com.mvn.test.App] Hello Logger
